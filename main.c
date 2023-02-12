@@ -6,7 +6,7 @@
 #include <string.h>
 #include "file.h"
 #include "database.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 
 // menu prototipusok
 void menu(node **database);
